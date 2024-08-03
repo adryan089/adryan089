@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
-- 👯 I’m looking to collaborate on **Diskusi Calon Cukong**
+- 👯 I’m looking to collaborate on **ALINOSNET**
 
 - 💬 Ask me about **Mikrotik**
 
