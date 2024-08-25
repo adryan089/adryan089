@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python, NodeJS**
 
-- 👯 I’m looking to collaborate on **ALINOSNET**
+- 👯 I’m looking to collaborate on **ALINOS NETWORK**
 
-- 💬 Ask me about **Mikrotik**
+- 💬 Ask me about **LINUX**
 
 - 📫 How to reach me **masmarko117@engineer.com**
 
